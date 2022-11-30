@@ -9,6 +9,7 @@ This is the GitHub repo for SpaceMission analysis project by group 2. This repo 
 - Launch_Vehicle_all_in_one.py -- Analysis and plotting code focusing on launch vehicle related topics
 - countries_leaderboard_activevsretired.py -- Analysis code focusing on country and rocket status related topics
 - country_col_plots.py -- Plotting code focusing on country related topics
+- datum_analysis_all_in_one.py -- Analysis & Plotting code focusing on date(month & year) related topics
 
 ## Requirement
 This project has a minimum version of python 3.7. Dependencies includes NumPy, pandas, pycountry, geopy, folium, geopandas, mapclassify, plotly, matplotlib.

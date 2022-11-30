@@ -2,11 +2,11 @@
 This is the GitHub repo for SpaceMission analysis project by group 2. This repo contains the raw dataset (csv file), analysis code, presentation pdf, and a jupyter notebook that contains the data visualization part of our analysis. 
 
 ##Team Members
-Trevor Bonaiuto -- tbonaiut@ucsd.edu
-Han Guo -- h5guo@ucsd.edu
-Vyshnavi Sankaran Krishnan -- vykrishnan@ucsd.edu
-Divya Seshadri Murali -- dsmurali@ucsd.edu
-Mainak Sarkar -- masarkar@ucsd.edu
+- Trevor Bonaiuto -- tbonaiut@ucsd.edu
+- Han Guo -- h5guo@ucsd.edu
+- Vyshnavi Sankaran Krishnan -- vykrishnan@ucsd.edu
+- Divya Seshadri Murali -- dsmurali@ucsd.edu
+- Mainak Sarkar -- masarkar@ucsd.edu
 
 ## File description
 - Space_Corrected.csv -- Raw data
